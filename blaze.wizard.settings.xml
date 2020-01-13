@@ -1,0 +1,10 @@
+<application>
+  <component name="BlazeWizardUserSettings">
+    <settings>
+      <entry key="blaze-wizard.last-imported-bazel-workspace" value="$USER_HOME$/dev/server-infra::/Users/davidv/dev/catalyst-server::/Users/davidv/dev/wixos::/Users/davidv/dev/promote-server::/Users/davidv/dev/hackaton/bhack-bookings-facebook::/Users/davidv/dev/hackaton/scheduler::/Users/davidv/dev/hackaton/hack-booking-via-messenger::/Users/davidv/dev/chat-bazel" />
+      <entry key="import-from-workspace.last-workspace-path" value=".ijwb/.bazelproject" />
+      <entry key="select-project-view.selected-option" value="create-from-scratch" />
+      <entry key="select-workspace.selected-option" value="use-existing-bazel-workspace" />
+    </settings>
+  </component>
+</application>

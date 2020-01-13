@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern=".nvmrc" type="Native" />
+      <mapping pattern="MessagesAPI.proto" type="PLAIN_TEXT" />
+      <mapping pattern="EmailTrackingRest.proto" type="PLAIN_TEXT" />
+      <mapping pattern="inbox-labels-frontend.proto" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
+      <mapping pattern="BroadcastMessage" type="PROTO" />
+      <mapping pattern="Templates" type="Scala" />
+    </extensionMap>
+  </component>
+</application>
