@@ -1,6 +1,6 @@
 <application>
   <component name="AutoDepFromSourceImportUserSettings">
+    <option name="autoAddDependencyFromSourceImport" value="true" />
     <option name="autoDepOn" value="true" />
-    <option name="highlightAutoDep" value="true" />
   </component>
 </application>
